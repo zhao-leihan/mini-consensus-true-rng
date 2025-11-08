@@ -63,3 +63,6 @@ Run tests:
 ```bash
 cargo test
 ```
+
+
+## Sample Output

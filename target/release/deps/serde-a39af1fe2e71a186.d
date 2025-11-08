@@ -1,0 +1,14 @@
+C:\Users\INTEL\Videos\mini-consensus-true-rng\target\release\deps\serde-a39af1fe2e71a186.d: C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\INTEL\Videos\mini-consensus-true-rng\target\release\build\serde-903a4c11ec945302\out/private.rs
+
+C:\Users\INTEL\Videos\mini-consensus-true-rng\target\release\deps\libserde-a39af1fe2e71a186.rlib: C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\INTEL\Videos\mini-consensus-true-rng\target\release\build\serde-903a4c11ec945302\out/private.rs
+
+C:\Users\INTEL\Videos\mini-consensus-true-rng\target\release\deps\libserde-a39af1fe2e71a186.rmeta: C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\INTEL\Videos\mini-consensus-true-rng\target\release\build\serde-903a4c11ec945302\out/private.rs
+
+C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\INTEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\INTEL\Videos\mini-consensus-true-rng\target\release\build\serde-903a4c11ec945302\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\INTEL\\Videos\\mini-consensus-true-rng\\target\\release\\build\\serde-903a4c11ec945302\\out

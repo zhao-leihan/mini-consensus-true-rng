@@ -82,5 +82,3 @@ cargo test
 ### He're my Demo for this project
 [![Watch the video](https://img.youtube.com/vi/BBES7imtXDQ/0.jpg)](https://www.youtube.com/watch?v=BBES7imtXDQ)
 
-### Author
-### Rayhan 

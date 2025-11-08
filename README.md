@@ -79,7 +79,7 @@ cargo test
 ![TRNG Health Check](https://raw.githubusercontent.com/zhao-leihan/mini-consensus-true-rng/main/assets/node%20healt%20check.png)
 
 ## Video Demo:
-He're my Demo for this project
+### He're my Demo for this project
 [![Watch the video](https://img.youtube.com/vi/BBES7imtXDQ/0.jpg)](https://www.youtube.com/watch?v=BBES7imtXDQ)
 
 ### Author

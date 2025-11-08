@@ -47,7 +47,7 @@ curl http://localhost:8080/rng?len=32
 # {"random_bytes":"c6de9162ad0e9897f5e2d6a862f4272f88b1ae7f49d0335c0f67e2ed536cc48b"}
 ```
 
-⚙️ Build & Run
+## Build & Run
 ```bash
 cargo build --release
 cargo run --bin node

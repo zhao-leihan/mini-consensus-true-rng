@@ -66,3 +66,14 @@ cargo test
 
 
 ## Sample Output
+### Running Node
+![Running Node](https://raw.githubusercontent.com/zhao-leihan/mini-consensus-true-rng/main/assets/running%20node.png)
+
+### Running Tests
+![Running Tests](https://raw.githubusercontent.com/zhao-leihan/mini-consensus-true-rng/main/assets/running%20test.png)
+
+### cURL Testing
+![cURL Testing](https://raw.githubusercontent.com/zhao-leihan/mini-consensus-true-rng/main/assets/curl%20testing.png)
+
+### TRNG Health Check
+![TRNG Health Check](https://raw.githubusercontent.com/zhao-leihan/mini-consensus-true-rng/main/assets/node%20healt%20check.png)
